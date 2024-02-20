@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eddie254 - Website Creator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Eddie254 - Website Creator</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <img src="EDDIE7890.jpg" alt="Eddie254 Image">
+        <h2>About Eddie254</h2>
+        <p>
+            Welcome to Eddie254's website! I'm Eddie, a passionate web designer and developer dedicated to creating stunning and functional websites.
+            Whether you're an individual, small business, or organization, I can help bring your online presence to life.
+        </p>
+
+        <h2>Services</h2>
+        <p>
+            I offer a variety of services, including:
+        </p>
+        <ul>
+            <li>Website Design</li>
+            <li>Web Development</li>
+            <li>Website Maintenance</li>
+            <li>E-commerce Solutions</li>
+        </ul>
+
+        <p>
+            Let's work together to build a website that suits your needs and reflects your unique identity.
+        </p>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <p>
+            <strong>Phone:</strong> <span class="highlight">0790206226</span><br>
+            <strong>Email:</strong> <span class="italic">eddielance2@gmail.com</span><br>
+            <strong>Location:</strong> <span class="underline">Kisii University</span>
+        </p>
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>- 
+
+<!---
+eddie456-lab/eddie456-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
